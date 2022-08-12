@@ -4,7 +4,7 @@
 
 
 
-##Introduction
+## Introduction
 This repository contains basic instructions for running demos in the Igloo installation of the Advanced Immersive Learning Environment.
 
 This is a visualisation facility located in room 101 of the advanced engineering centre, which contains the following equipment:
@@ -22,4 +22,5 @@ This is a visualisation facility located in room 101 of the advanced engineering
 - T3D Mocap Suit - Summer- Men - MEDIUM - Black/Blue
 - OptiTrack Marker Set 14mm w/ X-Base
 
-
+## References
+[The Fount of Igloo Knowledge](https://360igloo.atlassian.net/wiki/spaces/EDoc/pages/2050785281/The+Fount+of+Igloo+Knowledge).
