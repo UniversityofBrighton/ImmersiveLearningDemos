@@ -22,5 +22,15 @@ This is a visualisation facility located in room 101 of the advanced engineering
 - T3D Mocap Suit - Summer- Men - MEDIUM - Black/Blue
 - OptiTrack Marker Set 14mm w/ X-Base
 
+## Basic workflows when using the Igloo
+1. [360 Images](#360-images)
+2. [360 Video]((#360-video))
+
+
+
+### 360 Images
+
+### 360 Video
+
 ## References
 [The Fount of Igloo Knowledge](https://360igloo.atlassian.net/wiki/spaces/EDoc/pages/2050785281/The+Fount+of+Igloo+Knowledge).
