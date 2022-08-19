@@ -24,7 +24,7 @@ This is a visualisation facility located in room 101 of the advanced engineering
 
 ## Basic workflows when using the Igloo
 1. [360 Images](#360-images)
-2. [360 Video]((#360-video))
+2. [360 Video](#360-video)
 
 
 
