@@ -5,9 +5,9 @@
 
 
 ## Introduction
-This repository contains basic instructions for running demos in the Igloo installation of the Advanced Immersive Learning Environment.
+This repository contains basic instructions for developing workflows to create, process, and run content in the Igloo installation of the Advanced Immersive Learning Environment.
 
-This is a visualisation facility located in room 101 of the advanced engineering centre, which contains the following equipment:
+The Advanced Immersive Learning Environment is a visualisation facility located in room 101 of the Advanced Engineering Centre, which contains the following equipment:
 
 - 8 x 5000 lumen HD/WUXGA UST projectors with 3D (projected on four walls).
 - 2 x 5100 lumens HD/WUXGA projectors with 3D (projected on the floor).
