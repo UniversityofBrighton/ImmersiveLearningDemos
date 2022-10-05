@@ -4,15 +4,14 @@
 
 
 ## Introduction
-This repository contains basic instructions for developing workflows to create, process, and run content in the Igloo installation of the Advanced Immersive Learning Environment.
+This repository contains basic instructions for developing workflows to create, process, and run content in the 3D Stereoscopic Igloo installation of the Advanced Immersive Learning Environment.
 
-The Advanced Immersive Learning Environment is a visualisation facility located in room 101 of the Advanced Engineering Centre, which contains the following equipment:
+The Advanced Immersive Learning Environment is a stereoscopic visualisation facility located in room 101 of the Advanced Engineering Centre, which contains the following equipment:
 
 - 8 x 5000 lumen HD/WUXGA UST projectors with 3D (projected on four walls).
 - 2 x 5100 lumens HD/WUXGA projectors with 3D (projected on the floor).
 - IMP III Media player
 - 5.1 Surround Sound system
-- An 3D stereoscopic Igloo
 - Server cabinet with network switch plus peripherals
 - 10 x 3D glasses and 3D emitter
 - Igloo Elite Software Package
