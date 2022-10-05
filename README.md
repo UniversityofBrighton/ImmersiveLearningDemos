@@ -37,8 +37,8 @@ A 360 image can be created with a variety of cameras, including [GoProMax](https
 
 Below is an example of a 360 image as well as the stereoscopic 360 image acquired with a Insta360 Pro2 camera.
 
-![360](files/360.jpg){: width="350px"}
-![360 3D stereoscopic](files/360-3D.jpg){: width="350px"}
+![360](files/360_low.jpg){: width="350px"}
+![360 3D stereoscopic](files/360_3D_low.jpg){: width="350px"}
 
 
 #### Proecessing 360 images
