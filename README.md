@@ -32,6 +32,13 @@ This is a visualisation facility located in room 101 of the advanced engineering
 6. [Google Map](#google-maps)
 
 ### 360 Images
+#### Creating 360 images
+A 360 image can be created with a variety of cameras, including [GoProMax](https://gopro.com/en/gb/shop/cameras/max/CHDHZ-202-master.html) and [Insta360](https://www.insta360.com/).
+
+#### Proecessing 360 images
+
+#### Loading 360 images
+
 
 ### 360 Video
 
