@@ -1,7 +1,6 @@
 [^Comment]: [https://github.com/UniversityofBrighton/ImmersiveLearningDemos]
 # Welcome to the Advanced Immersive Learning Environment repository
 
-![Logo of facility](https://raw.githubusercontent.com/UniversityofBrighton/ImmersiveLearningDemos/main/logo.png)
 
 
 ## Introduction
@@ -21,6 +20,8 @@ The Advanced Immersive Learning Environment is a visualisation facility located 
 - OptiTrack MOTIVE Body Software
 - T3D Mocap Suit - Summer- Men - MEDIUM - Black/Blue
 - OptiTrack Marker Set 14mm w/ X-Base
+
+![Logo of facility](https://raw.githubusercontent.com/UniversityofBrighton/ImmersiveLearningDemos/main/logo.png)
 
 
 ## Basic workflows when using the Igloo
