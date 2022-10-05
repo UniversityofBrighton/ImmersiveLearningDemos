@@ -1,4 +1,4 @@
-[https://github.com/UniversityofBrighton/ImmersiveLearningDemos]
+[^Comment]: [https://github.com/UniversityofBrighton/ImmersiveLearningDemos]
 # Welcome to the Advanced Immersive Learning Environment repository
 
 ![Logo of facility](https://raw.githubusercontent.com/UniversityofBrighton/ImmersiveLearningDemos/main/logo.png)
