@@ -33,12 +33,10 @@ This is a visualisation facility located in room 101 of the advanced engineering
 
 ### 360 Images
 #### Creating 360 images
-A 360 image can be created with a variety of cameras, including [GoProMax](https://gopro.com/en/gb/shop/cameras/max/CHDHZ-202-master.html) and [Insta360](https://www.insta360.com/). Below is an example of a 360 image as well as the stereoscopic 360 image acquired with a Insta360 Pro2 camera.
+A 360 image can be created with a variety of cameras, including [GoProMax](https://gopro.com/en/gb/shop/cameras/max/CHDHZ-202-master.html) and [Insta360](https://www.insta360.com/).Below is an example of a 360 image as well as the stereoscopic 360 image acquired with a Insta360 Pro2 camera.
 
-![](./files/360_low.jpg =x250)
-![](./files/360_3D_low.jpg =x250)
-![](./files/360_3D_low.jpg =x250)
-
+![360](files/360_low.jpg){: width="350px"}
+![360 3D stereoscopic](files/360_3D_low.jpg){: width="350px"}
 
 
 #### Proecessing 360 images
