@@ -49,7 +49,10 @@ Using the software Insta360 Stitcher
 #### Loading 360 images
 
 
-### 360 Video
+### 360 Video from link
+
+### 360 Video from file
+
 
 ### 3D Environment
 
