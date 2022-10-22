@@ -25,11 +25,12 @@ The Advanced Immersive Learning Environment is a stereoscopic visualisation faci
 
 ## Basic workflows when using the Igloo
 1. [360 Images](#360-images)
-2. [360 Video](#360-video)
-3. [3D Environment (e.g. Unity, Unreal)](#3d-environment)
-4. [Blender](#blender)
-5. [Architecture Software](#architecture-software)
-6. [Google Map](#google-maps)
+2. [360 Video from an HTTP link](#360-video-link)
+3. [360 Video from a file](#360-video-file)
+4. [3D Environment (e.g. Unity, Unreal)](#3d-environment)
+5. [Blender](#blender)
+6. [Architecture Software](#architecture-software)
+7. [Google Map](#google-maps)
 
 ### 360 Images
 #### Creating 360 images
@@ -42,7 +43,8 @@ A 360 image can be created with a variety of cameras, including [GoProMax](https
 Stereoscopic 360 Image acquired with Insta 360.
 
 
-#### Proecessing 360 images
+#### Processing 360 images
+Using the software Insta360 Stitcher
 
 #### Loading 360 images
 
