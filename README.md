@@ -49,9 +49,9 @@ Using the software Insta360 Stitcher
 #### Loading 360 images
 
 
-### 360 Video from link
+### 360 Video Link
 
-### 360 Video from file
+### 360 Video File
 
 
 ### 3D Environment
